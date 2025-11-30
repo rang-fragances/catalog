@@ -7,9 +7,9 @@ export const storeConfig = {
     subtitle: "Tu aroma, tu estilo",
     copyright: "2025 Rang Fragances. All rights reserved.",
     title: "Tu aroma, tu estilo - Catalog",
-    url: "https://bergbach-fragrance.github.io/catalog/",
+    url: "https://rang-fragances.github.io/catalog/",
     // Imagen destinada a los preview de los enlaces.
-    previewImage: "imgs/bergbach-fragrance-preliminar.jpg",
+    previewImage: "https://rang-fragances.github.io/catalog/imgs/rang-preliminar.jpg",
     loader: {
       //animationUrl: 'https://assets9.lottiefiles.com/packages/lf20_usmfx6bp.json',
       animationUrl: "./assets/animations/loader_animation.json",
