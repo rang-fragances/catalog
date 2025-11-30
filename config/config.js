@@ -9,7 +9,8 @@ export const storeConfig = {
     title: "Tu aroma, tu estilo - Catalog",
     url: "https://rang-fragances.github.io/catalog/",
     // Imagen destinada a los preview de los enlaces.
-    previewImage: "https://rang-fragances.github.io/catalog/imgs/rang-preliminar.jpg",
+    previewImage:
+      "https://rang-fragances.github.io/catalog/imgs/rang-preliminar.jpg",
     loader: {
       //animationUrl: 'https://assets9.lottiefiles.com/packages/lf20_usmfx6bp.json',
       animationUrl: "./assets/animations/loader_animation.json",
